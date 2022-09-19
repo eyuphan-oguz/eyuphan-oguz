@@ -1,6 +1,5 @@
 # Hi, I'm Eyuphan Oguz! 👋
 
-![Rivaan's github stats](https://github-readme-stats.vercel.app/api?username=eyuphan-oguz&show_icons=true&theme=react)
 ## 🚀 About Me
 ⚡ Hello, I am a 4th year computer engineering student at Bandirma Onyedi Eylul University. I am developing myself as a fullstack mobile developer. On this journey, I share the projects I have done to improve myself on my account. ⚡
 
@@ -25,6 +24,7 @@ Flutter, Dart, Java, C#, HTML, CSS, Firebase, Node, MongoDB, Oracle, Unity
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
    <img alt="Flutter" src="https://img.shields.io/badge/flutter-%23129C.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+   <img alt="Flutter" src="https://img.shields.io/badge/unity-%23129C.svg?style=for-the-badge&logo=unity&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   
@@ -35,3 +35,4 @@ Flutter, Dart, Java, C#, HTML, CSS, Firebase, Node, MongoDB, Oracle, Unity
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
   
 </h6>
+![Eyuphan's github stats](https://github-readme-stats.vercel.app/api?username=eyuphan-oguz&show_icons=true&theme=react)
