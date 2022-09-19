@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC5q9qKTZHXOmme-g1Tb_YVQ)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyuphan-oguz)](https://github.com/anuraghazra/github-readme-stats)
+
