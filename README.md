@@ -9,7 +9,7 @@
 [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@eyuphanoguz)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/eyüphan-oğuz-77b10b1a8)
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/eyuphan.oguz/)
-[![yahoo](https://img.shields.io/badge/yahoo-C3599C.svg?style=for-the-badge&logo=yahoo&logoColor=white)](eyuphanoguz@yahoo.com)
+[![yahoo](https://img.shields.io/badge/yahoo-C3599C.svg?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:eyuphanoguz@yahoo.com)
 
 
 ## 🛠 Technical Skills
