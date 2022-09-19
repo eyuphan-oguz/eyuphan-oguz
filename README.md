@@ -13,6 +13,7 @@
 
 
 ## 🛠 Technical Skills
+![Eyuphan's github stats](https://github-readme-stats.vercel.app/api?username=eyuphan-oguz&show_icons=true&theme=react)
 
 <h6>
 
@@ -34,8 +35,7 @@
   
 </h6>
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EyuphanOguz&theme=algolia" alt="EyuphanOguz"  /></p>
-![Eyuphan's github stats](https://github-readme-stats.vercel.app/api?username=eyuphan-oguz&show_icons=true&theme=react)
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BeratYesbek&theme=algolia" alt="EyuphanOguz"  /></p>
 
 <hr>
 <p align="center">
