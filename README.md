@@ -1,6 +1,6 @@
 # Hi, I'm Eyuphan Oguz! 👋
 
-![Rivaan's github stats](https://github-readme-stats.vercel.app/api?username=rivaanranawat&show_icons=true&theme=react)
+![Rivaan's github stats](https://github-readme-stats.vercel.app/api?username=eyuphan-oguz&show_icons=true&theme=react)
 ## 🚀 About Me
 I'm a 22 year old coding enthusiast with some knowledge in App Development!
 
