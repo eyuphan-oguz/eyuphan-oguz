@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyuphan-oguz&show_icons=true&theme=prussian)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyuphan-oguz&theme=algolia&show_icons=true)
