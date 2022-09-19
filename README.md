@@ -2,7 +2,7 @@
 
 ![Rivaan's github stats](https://github-readme-stats.vercel.app/api?username=eyuphan-oguz&show_icons=true&theme=react)
 ## 🚀 About Me
-⚡ Hello, I am a 4th year computer engineering student at Kocaeli University. I am developing myself as a fullstack mobile developer. On this journey, I share the projects I have done to improve myself on my account. ⚡
+⚡ Hello, I am a 4th year computer engineering student at Bandirma Onyedi Eylul University. I am developing myself as a fullstack mobile developer. On this journey, I share the projects I have done to improve myself on my account. ⚡
 
 
 ## 🔗 Links
