@@ -2,6 +2,7 @@
 
 ## 🚀 About Me
 ⚡ Hello, I am a 4th year computer engineering student at Bandirma Onyedi Eylul University. I am developing myself as a fullstack mobile developer. On this journey, I share the projects I have done to improve myself on my account. ⚡
+![Eyuphan's github stats](https://github-readme-stats.vercel.app/api?username=eyuphan-oguz&show_icons=true&theme=react)
 
 
 ## 🔗 Links
@@ -35,4 +36,3 @@ Flutter, Dart, Java, C#, HTML, CSS, Firebase, Node, MongoDB, Oracle, Unity
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
   
 </h6>
-![Eyuphan's github stats](https://github-readme-stats.vercel.app/api?username=eyuphan-oguz&show_icons=true&theme=react)
