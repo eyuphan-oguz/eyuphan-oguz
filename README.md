@@ -9,7 +9,6 @@
 [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://namanrivaan.medium.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/eyüphan-oğuz-77b10b1a8)
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/eyuphan.oguz/)
-![Eyuphan's github stats](https://github-readme-stats.vercel.app/api?username=eyuphan-oguz&show_icons=true&theme=react)
 
 
 
@@ -35,7 +34,8 @@
   
 </h6>
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BeratYesbek&theme=algolia" alt="EyuphanOguz"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EyuphanOguz&theme=algolia" alt="EyuphanOguz"  /></p>
+![Eyuphan's github stats](https://github-readme-stats.vercel.app/api?username=eyuphan-oguz&show_icons=true&theme=react)
 
 <hr>
 <p align="center">
