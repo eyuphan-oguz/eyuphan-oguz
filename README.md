@@ -10,6 +10,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/eyüphan-oğuz-77b10b1a8)
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/eyuphan.oguz/)
 [![yahoo](https://img.shields.io/badge/yahoo-C3599C.svg?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:eyuphanoguz@yahoo.com)
+[![youtube](https://img.shields.io/badge/youtube-865648?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5q9qKTZHXOmme-g1Tb_YVQ/videos)
 
 
 ## 🛠 Technical Skills
