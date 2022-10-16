@@ -42,3 +42,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyuphan-oguz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=python,html,css" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=eyuphan-oguz&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
+
+## :abacus: Last 30 days of Contributions
+<div align="center">
+  <img width="1000em" style="margin-top: 0px" src="https://eleo-readme-activity-graph.herokuapp.com/graph?username=EleoXDA&bg_color=ffffff&color=000000&line=4c9d9e&point=ff0000&area=true&hide_border=true&hide_title=true"/>
+</div>
+
+## :abacus: Last Year of Contributions
+<div align="center">
+  <img width="1000em" style="margin-top: 0px" src="./profile-3d-contrib/profile-custom-rainbow.svg"/>
+</div>
+
