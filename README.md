@@ -1,4 +1,6 @@
+
 # Hi, I'm Eyuphan Oguz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+# 🚀
 
 ## 🚀 About Me
 ⚡ Hello, I am a 4th year computer engineering student at Bandirma Onyedi Eylul University. I am developing myself as a fullstack mobile developer. On this journey, I share the projects I have done to improve myself on my account. ⚡
